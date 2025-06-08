@@ -206,4 +206,33 @@ When a card is discarded, it is put in the owner’s discard pile. Discard effec
 ### Passive
 Many buildings will have unique passive effects. These are triggered at the start of every turn where they are present in the player’s play area. It can be useful to ‘tap’ the building to indicate when its passive effect has been used.
 
+## Gameplay concepts
+
+### Deck
+The face-down pile of cards is your deck. You cannot look at the order of the cards in your deck. When you draw cards, you draw them from the top of your deck. When your deck runs out and you need to draw more cards, shuffle your discard and this becomes your new deck.
+
+### Hand
+The cards you draw at the end of your turn is your hand. You can look at what cards you have in your hand. Once you play cards at the start of your turn, they are no longer in your hand.
+
+### Discard
+When cards are discarded, they go into a face-up discard pile. Each player has their own discard pile.
+
+### Play
+Throughout your turn you can play cards from your hand in any order. When you play a card you resolve any number of its effects now (can be 0) before playing any other cards, and can perform any number more of its effects later, after you’ve played other cards. Note, that you cannot use the same effect twice at different intervals within the same turn, and you cannot use both OR conditional effects (even during different intervals) during the same turn.
+
+### Trash
+When trashing from own suite (deck, discard, play) place into own trash. When trashing from trade row, place into trade row trash
+
+## Game Over
+When the Landmark deck runs out, the end game is triggered (note, that not all landmark cards need to be bought – landmark cards can remain in the landmark trade row, but the deck is empty when there is no more face-down cards in the landmark deck). When this happens, the player whose turn it is resolves the rest of their turn, including discard and draw. 
+
+Without moving cards from their respective locations (deck, play, discard, trash), each player finds their landmark cards from among their deck, discard and play area and places the landmark cards next to the location where they found them. This is important, as the location of the card at the end of the game influences how it scores points and how many points it scores. Landmark cards in the trash are left there and are not scored. 
+
+Finally, each player scores their landmark cards. The player with the highest score wins the game.
+
+## Ground Rules
+An effect which says something can’t happen overrides an effect which says something can happen.
+
+Specific effects on game components override general rules in the rulebook.
+
 
